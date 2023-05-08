@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcmsc-204-generic-lab
+<br>
+Classes in the file :DataSetGen javaGeneric Data Set Class – Computes the average of a set of data valuesDataSetTester javaThis program tests the DataSetGen classBankAccount javaA bank account has a balance that can be changed by deposits and withdrawals.Constructs a bank account with a zero balance .Constructs a bank account with a given balance.Deposits money into the bank account. Gets the current balance of the bank account.BaseballPlayer javaConstructs a baseball player with a zero batting average. Constructs a baseball player with a given name, team and batting average.Gets the name of the player.Measurable javaDescribes any class whose objects can be measured.
